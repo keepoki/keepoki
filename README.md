@@ -1,16 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋안녕하세요! 비즈니스 가치를 위한 문제해결에 관심 있는 개발자, 부경준입니다.
+## 👋안녕하세요! Product Engineer, 부경준입니다.
 
 ### Introducation
 
-다양한 업무에서 문제 해결을 주도적으로 해왔던 경험을 개발자 커리어에도 이어가고 있습니다. 
+주도적으로 문제 해결하는 것을 좋아합니다.
 
-또한 단순히 주어진 일을 수행하는 것이 아니라, 더 나은 방법을 찾고 제안하는 데 익숙합니다.
-
-반복되는 작업에 대해 자동화할 수 있는 방법을 고민하며, 더 나은 개발 환경을 만드는 데 관심이 있습니다.
-
-지속적으로 배우고 성장하며, 사용자와 팀에 실질적인 가치를 줄 수 있는 제품 개발을 목표로 하고 있습니다.
+구현하는 사람에서 계획하고 검토하고 결정하는 사람이 되고자 노력중입니다.
 
 ### Progamming Languages
 
@@ -43,5 +39,3 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </br>
-
-<img height=165px src="https://github-readme-stats.vercel.app/api?username=keepoki&show_icons=true&theme=dark&card_width=360" alt="KyunJun Boo's GitHub stats"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keepoki&layout=compact&theme=dark&langs_count=6&card_width=310&card_width=360)
