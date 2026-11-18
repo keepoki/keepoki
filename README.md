@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋안녕하세요! 불편함을 개선하는 개발자 부경준입니다.
+## 👋안녕하세요! 사용 흐름을 끝까지 살피는 개발자 부경준입니다.
 
 ### Introducation
 
-사용자와 동료의 불편함을 개선하는 개발자입니다. 여러 국가의 자회사에서 사용하는 재무·행정 OA 서비스와 브랜드·관리자 웹사이트를 개발하며, 프론트엔드와 백엔드를 함께 담당했습니다.
-
-기능 개발과 유지보수를 하면서 사용자가 반복해야 하는 작업을 줄여왔습니다. 코드를 수정하거나 팀과 함께 일할 때도 번거로운 부분이 보이면 개선할 방법을 찾아 제안하는 편입니다.
+화면에서 보이는 문제를 API와 데이터 흐름까지 따라가며 해결해 온 웹 개발자입니다. 
+12개 계열사 OA 시스템에서 Angular 화면과 Node.js·Express API를 개발하고, 통계 기능 등 새 요구에 맞춰 DB 구조를 확장했습니다. 
+React·Next.js 브랜딩 사이트를 구현했으며, React·Express 기반 통합 관리자 사이트는 설계부터 배포까지 단독으로 담당했습니다.
 
 ### Progamming Languages
 
