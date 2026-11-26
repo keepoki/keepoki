@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋안녕하세요! AI 부경준입니다.
+## 👋안녕하세요! 엔지니어 부경준입니다.
 
 ### Introducation
 
