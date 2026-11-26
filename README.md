@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋안녕하세요! 사용 흐름을 끝까지 살피는 개발자 부경준입니다.
+## 👋안녕하세요! AI 부경준입니다.
 
 ### Introducation
 
-화면에서 보이는 문제를 API와 데이터 흐름까지 따라가며 해결해 온 웹 개발자입니다. 
-12개 계열사 OA 시스템에서 Angular 화면과 Node.js·Express API를 개발하고, 통계 기능 등 새 요구에 맞춰 DB 구조를 확장했습니다. 
-React·Next.js 브랜딩 사이트를 구현했으며, React·Express 기반 통합 관리자 사이트는 설계부터 배포까지 단독으로 담당했습니다.
+유지 보수 업무를 하는 실무에서 AI에게 모든걸 일임하는 주변 동료와 일하면서 새로운 것 하나 만들 때 마다 버그가 발생하여,
+저는 안정성을 위해 최소한의 함수나 기능에만 사용헀었습니다.
+그런데 2026년 3분기부터 AI의 성능이 엄청 좋아져 코드 검토나 테스트도 맡길 수 있게 되었다고 체감합니다.
+
+현재는 AI를 잘 다루기 위해 문제를 정의하는 법, 검토하고 결정해야 하는 법, 그리고 이 모든 것을 자동화로 만드는 법을 고민하고 있습니다.
 
 ### Progamming Languages
 
